@@ -13,5 +13,7 @@ The Bank deals in all kinds of home loans. They have a presence across all urban
 
 There are 614 observations with 13 fields in our dataset.
 Target label is Loan status (Binary categorical variable).
+
 Categorical variables(9):Gender (Male/Female),Married(Yes/No),Number of dependents (Possible values:0,1,2,3+)(Ordinal),Education (Graduate / Not Graduate),Self-Employed(Yes/No),credit history(Yes/No),Property Area (Rural/Semi-Urban/Urban)(Ordinal),Loan Status(Yes/No)(i.e.Target variable),Tenure.
+
 Continuous/Numerical variables(4):Loan ID,Applicant Income,Co-applicant Income,Loan Amount.
